@@ -1,0 +1,1 @@
+// un exemple d'un fichier pour la branche feature-accelerometer pour le cadre de notre projet
