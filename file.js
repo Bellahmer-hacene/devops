@@ -1,1 +1,1 @@
-// un exemple d'un fichier pour la branche feature-gyroscope pour le cadre de notre projet
+// un exemple d'un fichier pour la branche feature-accelerometer pour le cadre de notre projet
